@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josemaceballos&label=Profile%20views&color=0e75b6&style=flat" alt="josemaceballos" /> </p>
 
-- 🔭 Actualmente estoy dedicando mis tiempos a profundizar más en *UnrealEngine y Unity**
+- 🔭 Actualmente estoy dedicando mis tiempos a profundizar más en *UnrealEngine y Unity*
 
 - 👨‍💻Podrán visualizar algunos de mis proyectos en: [https://joseceballos-portafolio.com](https://joseceballos-portafolio.com)
 
