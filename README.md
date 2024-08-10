@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josemaceballos&label=Profile%20views&color=0e75b6&style=flat" alt="josemaceballos" /> </p>
 
-- 🔭 Actualmente estoy dedicando mis tiempos a profundizar más en *UnrealEngine y Unity*
+- 🔭 Actualmente estoy dedicando mis tiempos a profundizar más en *C#*
 
-- 👨‍💻Podrán visualizar algunos de mis proyectos en: [https://joseceballos-portafolio.com](https://joseceballos-portafolio.com)
+- 👨‍💻Podrán visualizar algunos de mis proyectos en: [https://jceballosdev.com](https://jceballosdev.com)
 
 - 💬 Pueden hacerme preguntas sobre **las tecnologías que he utilizado.**
 
-- 📫 Pueden también contactarse conmigo a través de mi g-mail: **josema.coder@gmail.com**
+- 📫 Pueden también contactarse conmigo a través de mi g-mail: **jceballos.dev.1998@gmail.com**
 
 <h3 align="left">Contáctame en:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jose-maria-ceballos-a3379524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-maria-ceballos-a3379524a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-maria-ceballos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-maria-ceballos/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
