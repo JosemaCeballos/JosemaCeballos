@@ -11,7 +11,7 @@
 
 - 💬 Pueden hacerme preguntas sobre **las tecnologías que he utilizado.**
 
-- 📫 Pueden también contactarse conmigo a través de mi g-mail: **jceballos.dev.1998@gmail.com**
+- 📫 Pueden también contactarse conmigo a través de mi g-mail: **josemaceb98@gmail.com**
 
 <h3 align="left">Contáctame en:</h3>
 <p align="left">
